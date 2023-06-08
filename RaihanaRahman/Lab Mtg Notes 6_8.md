@@ -1,10 +1,10 @@
 Goal: Determine which pre-trained embedding model would be most effective in our project on KGs. 
 
-Models Considered:
-MedBERT
-  Paper: https://arxiv.org/abs/2005.12833
+Models Considered:  
+MedBERT  
+  Paper: https://arxiv.org/abs/2005.12833 
   Con: Trained on patient EHR data. We will be passing in medical concepts, so being fine tuned to patient symptoms/conditions isn’t aligned with our inputs.  
-ClinicalBERT
+ClinicalBERT <br />
   Paper: https://arxiv.org/abs/1904.03323
   Pro: Trained on medical data such as medical conditions, treatments, clinical data, which is more in line with our purposes than MedBERT and SMedBERT. 
 SMedBERT
