@@ -9,3 +9,20 @@ Working on these things...
 7. Exploring the KG embeddings will be Next step...
 ![5th_paper](https://github.com/bukharilab/xplainablityinhealthcare/assets/45236572/e96687e8-b649-4733-8aba-2c7693614626)
 
+Possible venues to submit to:
+* 20th IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (https://cmte.ieee.org/cis-bbtc/cibcb2023/)
+*   Conference is on August 29-31, 2023. Short papers are due *July 2nd*. 
+* 15th Annual Conference on Bioinformatics Models, Methods, and Algorithms (https://bioinformatics.scitevents.org)
+*   Conference is on February 21st-23rd, 2023. Regular paper submission due *October 9th*, abstracts due *January 1st*
+* The 38th Annual AAAI Conference on Artificial Intelligence (https://aaai.org/aaai-conference/#)
+*   The special track on robust and safe AI appears to be most suitable for this project. Conference is on February 20-27, 2024. Abstracts due *August 8th*, papers due *August 15th*
+* 22nd International Conference on Machine Learning and Applications (https://icmla-conference.org/icmla23/keydates.html)
+*   Conference is on December 15-17, 2023. Main conference papers due *July 15th*
+* 18th International Conference on Emerging Technologies (https://www.icet.org.pk/2023/index.php)
+*   Conference is on November 6-7, 2023. Papers due *July 28th*
+* 35th IEEE International Conference on Tools with Artificial Intelligence (https://ictai.computer.org/2023/)
+*   Conference is on November 6-8, 2023. Papers due *June 25th*
+
+Here are some conferences which have not been updated yet for 2024 or are currently ongoing, but I think might be valuable to look at in the future since they align with our project well. 
+* The 11th IEEE International Conference on Healthcare Informatics (https://ieeeichi.github.io/ICHI2023/)
+* IEEE Conference on Secure and Trustworthy Machine Learning (https://satml.org/#)
