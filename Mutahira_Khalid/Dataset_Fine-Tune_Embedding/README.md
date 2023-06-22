@@ -1,6 +1,6 @@
 Here, we are exploring something in Codiesp Dataset--> https://zenodo.org/record/3837305#.XsZFoXUzZpg
-1. We found that majority of codes belong to Chapter II of ICD-10 Hierarchy.
-2. And, majority of codes belong to D10-D36 section of chapter II--> See Image below.
+1. We found that majority of codes belong to Chapter II of ICD-10 Hierarchy--> See Image below.
+2. And, majority of codes belong to D10-D36 section of chapter II.
 3. We analysed this dataset because, we may fine-tune embedding models.
 4. You can see the analysis results here--> https://colab.research.google.com/drive/1hIFIaGloBSN8_iB7e90Nl2TCtF28JNxB?usp=sharing
 
