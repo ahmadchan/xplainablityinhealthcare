@@ -8,6 +8,7 @@ Working on these things...
 6. Experimentation and code (By me and Riahana) for above mentioned steps is here -> https://colab.research.google.com/drive/1UMh4QloPQ3uBgHDnDq1e2rLiXRYIC1Hm?usp=sharing
 7. After finding the best one, we will complete the first flow of Graph Creation and will start the creation of web application--> Meanline will enhance each step--> Increase the ontologies, Graph creation in mutiple formats, deep learning methods for finding the best connections for answering multiple questions, etc.
 8. Exploring the KG embeddings will be Next step...
+9. Presentation is present here--> https://1drv.ms/p/s!Ar6pHaT1WPgzuhbYke58d9fZDCcd?e=JJFZ4q
 ![5th_paper](https://github.com/bukharilab/xplainablityinhealthcare/assets/45236572/e96687e8-b649-4733-8aba-2c7693614626)
 
 Possible venues to submit to:
