@@ -7,7 +7,7 @@ KG creation for concepts\entities(Mutahira) - 65% done, filtration in-progress
 KG visualization(Mutahira) - almost done
 Connection creation among entities using word embedding (Raihana, Mutahira) - pending to add to nodes of KG
 UI design(Aisha) - in-progress, it will be updated based on KG creation
-BE and UI integration (Raihana) - waiting on NER list
+BE and UI integration (Raihana) - can start with structured data, waiting on NER list for Unstructured data
 
 TESTING:
 
