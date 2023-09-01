@@ -1,0 +1,16 @@
+DEVELOPMENT PART:
+
+Identify and fetch Entity(Sushama) - partly done. return list. test it further
+Codiesp dataset upload(Raihana) - .tsv file generated. Need to uplaod in github
+Fetch Hierarchy list for each Entity(Sushama) - partly done
+KG creation for concepts\entities(Mutahira) - 65% done, filtration in-progress
+KG visualization(Mutahira) - almost done
+Connection creation among entities using word embedding (Raihana, Mutahira) - pending to add to nodes of KG
+UI design(Aisha) - in-progress, it will be updated based on KG creation
+BE and UI integration (Raihana) - waiting on NER list
+
+TESTING:
+
+TEST WITH SPECIFIC USECASES:
+
+DRAFTING OF PAPER:
