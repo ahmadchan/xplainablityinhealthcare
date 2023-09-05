@@ -1,6 +1,6 @@
 DEVELOPMENT PART:
 
-Identify and fetch Entity(Sushama) - partly done. return list. test it further
+Identify and fetch Entity(Sushama) - done. list of extracted entities is being returned.
 Codiesp dataset upload(Raihana) - .tsv file generated. Need to uplaod in github
 Fetch Hierarchy list for each Entity(Sushama) - partly done
 KG creation for concepts\entities(Mutahira) - 65% done, filtration in-progress
