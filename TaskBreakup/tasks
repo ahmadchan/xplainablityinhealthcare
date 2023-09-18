@@ -2,14 +2,19 @@ DEVELOPMENT PART:
 
 Identify and fetch Entity(Sushama) - done. list of extracted entities is being returned.
 Codiesp dataset upload(Raihana) - .tsv file generated. Need to uplaod in github
-Fetch Hierarchy list for each Entity(Sushama) - partly done
+Fetch Hierarchy list for each Entity(Sushama) - done. hierarchy information saved in sqlite3 db
 KG creation for concepts\entities(Mutahira) - 65% done, filtration in-progress
 KG visualization(Mutahira) - almost done
 Connection creation among entities using word embedding (Raihana, Mutahira) - pending to add to nodes of KG
 UI design(Aisha) - in-progress, it will be updated based on KG creation
 BE and UI integration (Raihana) - can start with structured data, Unstructured data can also be integrated and tested
+Condition to combine two or more knowledge graphs(Mutahira)
+EXISTING BUGS:
+KG generation fails for terminology like fever, high fever
 
 TESTING:
+1. test KG generation 
+2. test medical entity extraction - does it leave any important term?
 
 TEST WITH SPECIFIC USECASES:
 
