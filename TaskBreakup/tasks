@@ -15,8 +15,8 @@ EXISTING BUGS:
 KG generation fails for terminology like fever, high fever
 
 TESTING:
-1. test KG generation 
-2. test medical entity extraction - does it leave any important term?
+1. test KG generation (Sushama): Tested for 5 medical concepts - it was successful for three.
+2. test medical entity extraction - does it leave out any important term?
 
 TEST WITH SPECIFIC USECASES:
 
