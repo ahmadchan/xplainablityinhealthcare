@@ -9,6 +9,8 @@ Connection creation among entities using word embedding (Raihana, Mutahira) - pe
 UI design(Aisha) - in-progress, it will be updated based on KG creation
 BE and UI integration (Raihana) - can start with structured data, Unstructured data can also be integrated and tested
 Condition to combine two or more knowledge graphs(Mutahira)
+
+
 EXISTING BUGS:
 KG generation fails for terminology like fever, high fever
 
