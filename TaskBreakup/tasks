@@ -3,16 +3,17 @@ DEVELOPMENT PART:
 Identify and fetch Entity(Sushama) - done. list of extracted entities is being returned.
 Codiesp dataset upload(Raihana) - .tsv file generated. Need to uplaod in github
 Fetch Hierarchy list for each Entity(Sushama) - done. hierarchy information saved in sqlite3 db
-KG creation for concepts\entities(Mutahira) - 65% done, filtration in-progress
+KG creation for concepts\entities(Mutahira) - 99% done, filtration in-progress
 KG visualization(Mutahira) - almost done
 Connection creation among entities using word embedding (Raihana, Mutahira) - pending to add to nodes of KG
+Connection creation among entities using word embedding-->Divided into 2 parts, Cluster-based comparsion (70% done, filteration in progress), Node-based Comparison.
 UI design(Aisha) - in-progress, it will be updated based on KG creation
 BE and UI integration (Raihana) - can start with structured data, Unstructured data can also be integrated and tested
 Condition to combine two or more knowledge graphs(Mutahira)
 
 
 EXISTING BUGS:
-KG generation fails for terminology like fever, high fever
+KG generation fails for terminology like fever, high fever (1% exception is present on generic terms, will add a user guide in UI to demostrate how to deal with these kind of issues)
 
 TESTING:
 1. test KG generation (Sushama): Tested for 5 medical concepts - it was successful for three.
@@ -21,3 +22,9 @@ TESTING:
 TEST WITH SPECIFIC USECASES:
 
 DRAFTING OF PAPER:
+Points to cover in paper:
+1. KG creation is a big issue and medical KG creation is a bigger one.
+2. Methodologies are presented in previous years but an web application having runtime KG creation is not proposed.
+3. This application will work with 99% automation and can be applied to mutiple use-cases.
+4. Pipeline to discuss. It took multiple steps and tools to implement.
+5. Apply to some use-case to have evaluation.
