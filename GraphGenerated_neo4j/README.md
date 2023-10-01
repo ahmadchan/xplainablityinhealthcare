@@ -11,3 +11,8 @@ See cluster-based & node-based comparison results below.
 When threshold=7
 
 ![neo4j_query_graph_2023-10-1](https://github.com/bukharilab/xplainablityinhealthcare/assets/45236572/31457a27-a31d-4f02-9a61-2789153f2f44)
+
+When threshold=3
+
+
+![neo4j_query_graph_2023-10-1 (1)](https://github.com/bukharilab/xplainablityinhealthcare/assets/45236572/ceb41c16-a297-46cd-a21a-6576ce6d942b)
