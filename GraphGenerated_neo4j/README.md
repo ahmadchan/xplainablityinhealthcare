@@ -16,3 +16,8 @@ When threshold=3
 
 
 ![neo4j_query_graph_2023-10-1 (1)](https://github.com/bukharilab/xplainablityinhealthcare/assets/45236572/ceb41c16-a297-46cd-a21a-6576ce6d942b)
+
+
+Remove all duplicates relationships. Threshold=3.
+
+![neo4j_query_graph_2023-10-8 (1)](https://github.com/bukharilab/xplainablityinhealthcare/assets/45236572/6fa9f81e-40d9-4f60-8e19-1bb4686c00b0)
